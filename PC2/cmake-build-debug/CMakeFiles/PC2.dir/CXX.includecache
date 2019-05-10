@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/fabrizio/Downloads/practica-calificada-2-Fgarcia19-master/attack.h
+
+/home/fabrizio/Downloads/practica-calificada-2-Fgarcia19-master/defense.h
+
+/home/fabrizio/Downloads/practica-calificada-2-Fgarcia19-master/fighter.cpp
+fighter.h
+/home/fabrizio/Downloads/practica-calificada-2-Fgarcia19-master/fighter.h
+peleadores.h
+/home/fabrizio/Downloads/practica-calificada-2-Fgarcia19-master/peleadores.h
+
+/home/fabrizio/Downloads/practica-calificada-2-Fgarcia19-master/fighter.h
+iostream
+-
+hijosDefense.h
+/home/fabrizio/Downloads/practica-calificada-2-Fgarcia19-master/hijosDefense.h
+hijosAtacck.h
+/home/fabrizio/Downloads/practica-calificada-2-Fgarcia19-master/hijosAtacck.h
+vector
+-
+
+/home/fabrizio/Downloads/practica-calificada-2-Fgarcia19-master/hijosAtacck.h
+attack.h
+/home/fabrizio/Downloads/practica-calificada-2-Fgarcia19-master/attack.h
+
+/home/fabrizio/Downloads/practica-calificada-2-Fgarcia19-master/hijosDefense.h
+defense.h
+/home/fabrizio/Downloads/practica-calificada-2-Fgarcia19-master/defense.h
+
+/home/fabrizio/Downloads/practica-calificada-2-Fgarcia19-master/peleadores.h
+fighter.h
+/home/fabrizio/Downloads/practica-calificada-2-Fgarcia19-master/fighter.h
+
