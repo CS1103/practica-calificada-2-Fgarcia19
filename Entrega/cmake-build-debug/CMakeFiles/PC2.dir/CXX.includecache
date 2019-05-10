@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/fabrizio/Downloads/PC2/attack.h
+
+/home/fabrizio/Downloads/PC2/defense.h
+
+/home/fabrizio/Downloads/PC2/fighter.h
+iostream
+-
+hijosDefense.h
+/home/fabrizio/Downloads/PC2/hijosDefense.h
+hijosAtacck.h
+/home/fabrizio/Downloads/PC2/hijosAtacck.h
+vector
+-
+
+/home/fabrizio/Downloads/PC2/figth.cpp
+figth.h
+/home/fabrizio/Downloads/PC2/figth.h
+iostream
+-
+peleadores.h
+/home/fabrizio/Downloads/PC2/peleadores.h
+
+/home/fabrizio/Downloads/PC2/figth.h
+fighter.h
+/home/fabrizio/Downloads/PC2/fighter.h
+
+/home/fabrizio/Downloads/PC2/hijosAtacck.h
+attack.h
+/home/fabrizio/Downloads/PC2/attack.h
+
+/home/fabrizio/Downloads/PC2/hijosDefense.h
+defense.h
+/home/fabrizio/Downloads/PC2/defense.h
+
+/home/fabrizio/Downloads/PC2/peleadores.h
+fighter.h
+/home/fabrizio/Downloads/PC2/fighter.h
+

@@ -1,0 +1,3 @@
+/home/fabrizio/Downloads/PC2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/fabrizio/Downloads/PC2/cmake-build-debug/CMakeFiles/PC2.dir
+/home/fabrizio/Downloads/PC2/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/PC2.dir/main.cpp.o CMakeFiles/PC2.dir/attack.cpp.o CMakeFiles/PC2.dir/hijosAtacck.cpp.o CMakeFiles/PC2.dir/defense.cpp.o CMakeFiles/PC2.dir/hijosDefense.cpp.o CMakeFiles/PC2.dir/fighter.cpp.o CMakeFiles/PC2.dir/peleadores.cpp.o CMakeFiles/PC2.dir/figth.cpp.o  -o PC2 
